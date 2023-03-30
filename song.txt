@@ -5,3 +5,5 @@ on this there chosen battle field
 
 some strings with text
 
+some more strings with text to the feature
+
