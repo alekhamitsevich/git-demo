@@ -5,6 +5,3 @@ on this there chosen battle field
 
 from the lines
 shield by shield
-line 7
-line eight
---------------------------------
