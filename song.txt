@@ -3,8 +3,8 @@ wall of shields
 standing strong
 on this there chosen battle field
 
-sword and spear
-wall of shields
-standing strong
-on this there chosen battle field
-_________________________-----
+some strings with text
+
+some more strings with text to the feature
+
+
